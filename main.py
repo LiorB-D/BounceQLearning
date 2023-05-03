@@ -10,7 +10,7 @@ size = 600
 screen = pygame.display.set_mode((size, size))
 
 myfont = pygame.font.SysFont("monospace", 25)
-dt = 1
+dt = 5
 
 
 active = True
